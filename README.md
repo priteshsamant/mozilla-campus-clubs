@@ -1,6 +1,7 @@
 # [Mozilla Campus Clubs](https://campus.mozilla.community/)
 
 ## Hack the site
+#updated
 
 Thank you for contributing! Just follow these simple steps
 
